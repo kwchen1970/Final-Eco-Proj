@@ -1,0 +1,43 @@
+# Unreal Engine build folders
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+Build/
+
+# User-specific settings
+*.suo
+*.user
+*.userprefs
+*.lnk
+*.log
+*.vs/
+.vscode/
+.idea/
+
+# Visual Studio project files
+*.VC.db
+*.VC.opendb
+*.sln
+*.VC.db-shm
+*.VC.db-wal
+
+# OS generated files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Backup and crash files
+*.bak
+*.tmp
+*.dmp
+*.autosave
+
+# Unreal build tool files
+*.xcodeproj
+*.xcworkspace
+*.xcconfig
+
+# Optional config overrides (safe to ignore)
+Config/DefaultEditorPerProjectUserSettings.ini
+Config/DefaultEditor.ini
